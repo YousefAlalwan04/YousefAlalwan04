@@ -43,13 +43,13 @@
 
 ### 📫 Reach me
 <p>
-	<a href="mailto:yousefalabbadi04@gmail.com" title="Email">
+	<a target="_blank" rel="noopener noreferrer" href="mailto:yousefalabbadi04@gmail.com" title="Email">
 		<img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 	</a>
-	<a href="https://www.linkedin.com/in/yousef-al-alwan-48995220a/" target="_blank" title="LinkedIn">
+	<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/yousef-al-alwan-48995220a/" target="_blank" title="LinkedIn">
 		<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 	</a>
-	<a href="https://yousefalalwan04.github.io" target="_blank" title="Portfolio">
+	<a target="_blank" rel="noopener noreferrer" href="https://github.com/YousefAlalwan04" target="_blank" title="Portfolio">
 		<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 	</a>
 </p>
