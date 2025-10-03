@@ -1,7 +1,13 @@
 
 <h1 align="center">Hi, I'm Yousef</h1>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=hzmvbl4xcl8akesyb259qv07t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=hzmvbl4xcl8akesyb259qv07t&redirect=true)
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hzmvbl4xcl8akesyb259qv07t&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hzmvbl4xcl8akesyb259qv07t&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" alt="spotify-github-profile">
+  </a>
+</p>
+
 
 
 <p align="center">Full‑stack Developer · Spring Boot & Angular 18</p>
